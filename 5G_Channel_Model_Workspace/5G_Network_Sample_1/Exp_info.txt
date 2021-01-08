@@ -1,0 +1,2 @@
+Network_Name>5G_NR_mmWave
+Tooltip_Info>Description: 
